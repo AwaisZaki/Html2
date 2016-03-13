@@ -21,7 +21,7 @@ This Repository contains Basic Html Structure and Semantic Tags.
 * Bold
 * S tag
 
-Heading 1 to 6, Definition, Abbrevation, Address, Italic, Bold, S Tags.
+
  
  
 
