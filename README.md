@@ -2,7 +2,24 @@
 
 This Repository contains Basic Html Structure and Semantic Tags.
 
-Html, Head, Title,Body, pragraph, superscript, subscript,
+#### The Structure Tags
+
+* Html
+* Head 
+* Title
+* Body 
+* Pragraph
+
+#### The Semantic Tags
+ 
+* Superscript 
+* Subscript
+* Definitioin
+* Cite
+* Address
+* Italic
+* Bold
+* S tag
 
 Heading 1 to 6, Definition, Abbrevation, Address, Italic, Bold, S Tags.
  
